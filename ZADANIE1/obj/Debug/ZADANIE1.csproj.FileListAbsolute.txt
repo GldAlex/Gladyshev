@@ -1,7 +1,0 @@
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\bin\Debug\ZADANIE1.exe.config
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\bin\Debug\ZADANIE1.exe
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\bin\Debug\ZADANIE1.pdb
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\obj\Debug\ZADANIE1.csprojResolveAssemblyReference.cache
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\obj\Debug\ZADANIE1.csproj.CoreCompileInputs.cache
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\obj\Debug\ZADANIE1.exe
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE1\obj\Debug\ZADANIE1.pdb
