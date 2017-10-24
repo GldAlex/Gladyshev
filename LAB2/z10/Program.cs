@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace z10
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double xInGrad;
+            xInGrad = Convert.ToDouble(Console.ReadLine());
+            double xInRad;
+
+            xInRad = xInGrad * Math.PI / 180;
+            double a;
+            a = Math.Sin(xInRad);
+            Console.WriteLine("{0:F4}", a);
+        }
+    }
+}
