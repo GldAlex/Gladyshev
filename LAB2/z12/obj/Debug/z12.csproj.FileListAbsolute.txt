@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\GLd\LAB2\z12\bin\Debug\z12.exe.config
+C:\Users\Admin\Desktop\GLd\LAB2\z12\bin\Debug\z12.exe
+C:\Users\Admin\Desktop\GLd\LAB2\z12\bin\Debug\z12.pdb
+C:\Users\Admin\Desktop\GLd\LAB2\z12\obj\Debug\z12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GLd\LAB2\z12\obj\Debug\z12.exe
+C:\Users\Admin\Desktop\GLd\LAB2\z12\obj\Debug\z12.pdb

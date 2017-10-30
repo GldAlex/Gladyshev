@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\GLd\LAB2\z17\obj\Debug\z17.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GLd\LAB2\z17\obj\Debug\z17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GLd\LAB2\z17\bin\Debug\z17.exe.config
+C:\Users\Admin\Desktop\GLd\LAB2\z17\bin\Debug\z17.exe
+C:\Users\Admin\Desktop\GLd\LAB2\z17\bin\Debug\z17.pdb
+C:\Users\Admin\Desktop\GLd\LAB2\z17\obj\Debug\z17.exe
+C:\Users\Admin\Desktop\GLd\LAB2\z17\obj\Debug\z17.pdb

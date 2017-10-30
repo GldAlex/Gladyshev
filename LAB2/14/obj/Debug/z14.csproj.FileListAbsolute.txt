@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\GLd\LAB2\14\obj\Debug\z14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GLd\LAB2\14\bin\Debug\14.exe.config
+C:\Users\Admin\Desktop\GLd\LAB2\14\bin\Debug\14.exe
+C:\Users\Admin\Desktop\GLd\LAB2\14\bin\Debug\14.pdb
+C:\Users\Admin\Desktop\GLd\LAB2\14\obj\Debug\14.exe
+C:\Users\Admin\Desktop\GLd\LAB2\14\obj\Debug\14.pdb
