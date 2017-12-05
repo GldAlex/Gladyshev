@@ -1,6 +1,0 @@
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\bin\Debug\ZADANIE4.exe.config
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\bin\Debug\ZADANIE4.exe
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\bin\Debug\ZADANIE4.pdb
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\obj\Debug\ZADANIE4.csproj.CoreCompileInputs.cache
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\obj\Debug\ZADANIE4.exe
-C:\Users\pro-7\Desktop\Gladyshev\LAB1\ZADANIE4\obj\Debug\ZADANIE4.pdb

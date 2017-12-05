@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\GLd\LAB2\z10\obj\Debug\z10.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GLd\LAB2\z10\bin\Debug\z10.exe.config
-C:\Users\Admin\Desktop\GLd\LAB2\z10\bin\Debug\z10.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z10\bin\Debug\z10.pdb
-C:\Users\Admin\Desktop\GLd\LAB2\z10\obj\Debug\z10.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z10\obj\Debug\z10.pdb

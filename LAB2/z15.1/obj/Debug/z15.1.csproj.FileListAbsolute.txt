@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\bin\Debug\z15.1.exe.config
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\bin\Debug\z15.1.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\bin\Debug\z15.1.pdb
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\obj\Debug\z15.1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\obj\Debug\z15.1.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z15.1\obj\Debug\z15.1.pdb

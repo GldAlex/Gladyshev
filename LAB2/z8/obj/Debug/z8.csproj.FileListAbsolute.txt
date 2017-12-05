@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\obj\Debug\z8.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\obj\Debug\z8.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

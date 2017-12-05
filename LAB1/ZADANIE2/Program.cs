@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZADANIE2
+namespace zadanie2
 {
     class Program
     {
         static void Main(string[] args)
-        {
-            String a;
+        { String a;
             a=Console.ReadLine();
-            Console.Write("Мы стремимся к");
+            Console.Write("Мы стремимся к ");
             Console.Write(a);
         }
     }

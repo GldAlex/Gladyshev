@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\GLd\LAB2\z15\bin\Debug\z15.exe.config
-C:\Users\Admin\Desktop\GLd\LAB2\z15\bin\Debug\z15.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z15\bin\Debug\z15.pdb
-C:\Users\Admin\Desktop\GLd\LAB2\z15\obj\Debug\z15.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\GLd\LAB2\z15\obj\Debug\z15.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GLd\LAB2\z15\obj\Debug\z15.exe
-C:\Users\Admin\Desktop\GLd\LAB2\z15\obj\Debug\z15.pdb

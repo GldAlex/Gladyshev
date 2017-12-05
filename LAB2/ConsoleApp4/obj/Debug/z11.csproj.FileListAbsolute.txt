@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\obj\Debug\z11.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\obj\Debug\z11.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-C:\Users\Admin\Desktop\GLd\LAB2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

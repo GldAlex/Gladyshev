@@ -1,6 +1,0 @@
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\Users\Sasha\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
